@@ -1,0 +1,4 @@
+#Mon Mar 16 14:46:55 CST 2020
+base.0=F\:\\Working\\Web\\react-native\\teplate_source\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
